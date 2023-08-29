@@ -1,2 +1,2 @@
-# Derivative_App
-Derivative app using HTML,CSS and Javascript
+# Derivative Calculator
+Derivative Calculator app using HTML,CSS and Javascript
